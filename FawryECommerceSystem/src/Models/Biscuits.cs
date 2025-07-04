@@ -1,4 +1,6 @@
-﻿namespace FawryECommerceSystem.src.Models
+﻿using FawryECommerceSystem.src.Interfaces;
+
+namespace FawryECommerceSystem.src.Models
 {
     public class Biscuits : ExpirableProduct, IShippable
     {

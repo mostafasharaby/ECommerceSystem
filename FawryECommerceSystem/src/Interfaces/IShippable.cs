@@ -1,4 +1,4 @@
-﻿namespace FawryECommerceSystem.src.Models
+﻿namespace FawryECommerceSystem.src.Interfaces
 {
     public interface IShippable
     {

@@ -1,4 +1,5 @@
-﻿using FawryECommerceSystem.src.Models;
+﻿using FawryECommerceSystem.src.Interfaces;
+using FawryECommerceSystem.src.Models;
 
 namespace FawryECommerceSystem.src.Services
 {
